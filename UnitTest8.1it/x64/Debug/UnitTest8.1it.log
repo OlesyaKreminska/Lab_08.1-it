@@ -1,0 +1,14 @@
+﻿  UnitTest8.1it.cpp
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1 it\UnitTest8.1it\UnitTest8.1it.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest8.1it.cpp')
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1 it\UnitTest8.1it\UnitTest8.1it.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1 it\UnitTest8.1it\UnitTest8.1it.cpp(2,1):
+      use of precompiled header
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1 it\Lab_08.1 it\Lab_08.1 it.cpp(27,13): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest8.1it.cpp')
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1 it\Lab_08.1 it\Lab_08.1 it.cpp(43,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file '/UnitTest8.1it.cpp')
+  
